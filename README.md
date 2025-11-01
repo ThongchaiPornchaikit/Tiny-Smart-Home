@@ -38,8 +38,8 @@ Physical Computing Project 2025 - IT KMITL
 
 Grop member
 * 67070233 Thongchai Pornchaikit
-* การตรวจจับ:ระบบจะตรวจจับระดับแสงสว่างภายในบ้าน*67070220 Chisanupong Chinthong
-* การตรวจจับ:ระบบจะตรวจจับระดับแสงสว่างภายในบ้าน*67070286 Sirapop Sangthong
-* การตรวจจับ:ระบบจะตรวจจับระดับแสงสว่างภายในบ้าน*67070157 Warakon Tangcharoenarri
+* 67070220 Chisanupong Chinthong
+* 67070286 Sirapop Sangthong
+* 67070157 Warakon Tangcharoenarri
 
 Web : https://thongchaipornchaikit.github.io/Tiny-Smart-Home/

@@ -42,5 +42,6 @@ Grop member
 * 67070286 Sirapop Sangthong
 * 67070157 Warakon Tangcharoenarri
 
-* Web : https://thongchaipornchaikit.github.io/Tiny-Smart-Home/
-* Youtube : https://youtu.be/s9R2k-laUz8
+Web : https://thongchaipornchaikit.github.io/Tiny-Smart-Home/
+
+Youtube : https://youtu.be/s9R2k-laUz8
